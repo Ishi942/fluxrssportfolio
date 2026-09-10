@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "title": "TSMC prépare les photomasques de 12 pouces pour le High-NA EUV de demain",
+    "link": "https://www.comptoir-hardware.com/actus/business/48821-tsmc-prepare-les-photomasques-de-12-pouces-pour-le-high-na-euv-de-demain.html",
+    "date": "2026-09-10T11:01:36.000Z",
+    "desc": "l’instar de Samsung, TSMC ne s’est pas rué sur le High-NA EUV. Le fondeur taïwanais maximise ses procédés actuels en Low-NA et ne prévoit d’introduire la lithographie High-NA EUV dans sa production en",
+    "source": "Comptoir HW",
+    "color": "#fdd663"
+  },
+  {
+    "title": "Intel Nova Lake 12Xe : vers une prise en charge de mémoire CSO-DIMM ultra rapide et évolutive",
+    "link": "https://www.clubic.com/actualite-628939-intel-nova-lake-12xe-vers-une-prise-en-charge-de-memoire-cso-dimm-ultra-rapide-et-evolutive.html",
+    "date": "2026-09-09T15:10:00.000Z",
+    "desc": "Avec les moutures mobiles de Nova Lake, Intel passerait le cap d'une prise en charge des modules DDR5-8000 CSO-DIMM. Une avancée intéressante par rapport à Panther Lake. On vous explique pourquoi.",
+    "source": "Clubic Matériel",
+    "color": "#f28b82"
+  },
+  {
+    "title": "OUPS : Un Ryzen 9 9950X3D meurt une heure après son installation sur une ASUS ROG Crosshair X670E Hero",
+    "link": "https://www.cowcotland.com/news/102355/oups-un-ryzen-9-9950x3d-meurt-une-heure-apres-son-installation-sur-une-asus-rog-crosshair-x670e-hero.html",
+    "date": "2026-09-09T06:58:35.000Z",
+    "desc": "Il semblerait que nous soyons repartis sur une belle série de cramages complets avec les Ryzen X3D. Ainsi, un nouvel utilisateur de Reddit rapporte que son AMD Ryzen 9 9950X3D aurait rendu l'âme seule",
+    "source": "Cowcotland",
+    "color": "#81c995"
+  },
+  {
+    "title": "Intel préparerait une nouvelle hausse du prix de ses CPU",
+    "link": "https://www.comptoir-hardware.com/actus/business/48818-intel-preparerait-une-nouvelle-hausse-du-prix-de-ses-cpu.html",
+    "date": "2026-09-08T11:49:14.000Z",
+    "desc": "Intel s’apprêterait à relever une nouvelle fois le prix de ses processeurs PC. Selon des sources de la chaîne d’approvisionnement citées par le DigiTimes, les tarifs augmenteraient d’environ 10 % à pa",
+    "source": "Comptoir HW",
+    "color": "#fdd663"
+  },
+  {
+    "title": "Ce processeur AMD a cramé après seulement une heure d&#8217;utilisation, la carte mère en cause ?",
+    "link": "https://www.tomshardware.fr/ce-processeur-amd-a-crame-apres-seulement-une-heure-dutilisation-la-carte-mere-en-cause/",
+    "date": "2026-09-08T06:34:00.000Z",
+    "desc": "Un processeur Ryzen 9 9950X3D est devenu inutilisable après une heure d'utilisation sur une carte mère ASUS CROSSHAIR X670E Hero, suite à l'activation d'un paramètre de mémoire prédéfini dans le BIOS.",
+    "source": "Tom's Hardware",
+    "color": "#8ab4f8"
+  },
+  {
+    "title": "Pas assez cher mon fils : avec le Ryzen AI Max Pro 495 et 192 Go de RAM, Minisforum crève les prix du mini-PC",
+    "link": "https://www.clubic.com/actualite-628417-pas-assez-cher-mon-fils-avec-le-ryzen-ai-max-pro-495-et-192-mo-de-ram-minisforum-creve-les-prix-du-mini-pc.html",
+    "date": "2026-09-06T11:28:00.000Z",
+    "desc": "Minisforum fait évoluer son MS-S1 MAX avec l'intégration du nouveau Ryzen AI MAX+ d'AMD et une quantité impressionnante de mémoire vive. Problème, le prix passe d'environ 4 000 euros à plus de 7 000 !",
+    "source": "Clubic Matériel",
+    "color": "#f28b82"
+  },
+  {
+    "title": "Dell dégaine un nouveau 14S sous Wildcat Lake face au MacBook Neo",
+    "link": "https://www.comptoir-hardware.com/actus/modding-et-systemes/48807-dell-degaine-un-nouveau-14s-sous-wildcat-lake-face-au-macbook-neo.html",
+    "date": "2026-09-02T11:25:41.000Z",
+    "desc": "Dell continue de multiplier les machines susceptibles de faire de l’ombre au MacBook Neo d’Apple. Après le XPS 13 cuvée 2026 équipé de processeurs Wildcat Lake — des puces justement destinées aux PC p",
+    "source": "Comptoir HW",
+    "color": "#fdd663"
+  }
+]
