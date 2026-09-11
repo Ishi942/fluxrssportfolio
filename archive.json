@@ -1,5 +1,37 @@
 [
   {
+    "title": "Un énième Ryzen 5 pour les 10 ans de l’AM4",
+    "link": "https://www.comptoir-hardware.com/actus/processeurs/48823-un-enieme-ryzen-5-pour-les-10-ans-de-lam4.html",
+    "date": "2026-09-11T10:04:18.000Z",
+    "desc": "Quand il n'y en a plus, il y en a encore ! L’AM4 accueille un quelquetième membre. L’AM4, ce socket inauguré en 2016, et qui, malgré les débuts de l’AM5 en 2022, n’a décidément pas l’intention de pren",
+    "source": "Comptoir HW",
+    "color": "#fdd663"
+  },
+  {
+    "title": "Test noblechairs AURA AtmoShell : une chaise ErgoGamer intéressante ?",
+    "link": "https://www.cowcotland.com/news/102393/test-noblechairs-aura-atmoshell-une-chaise-ergogamer-interessante.html",
+    "date": "2026-09-11T08:58:13.000Z",
+    "desc": "Aujourd'hui, nous changeons un peu des cartes graphiques, processeurs, boîtiers et autres composants pour nous intéresser à notre séant. Et pour cela, nous vous proposons de découvrir notre test de la",
+    "source": "Cowcotland",
+    "color": "#81c995"
+  },
+  {
+    "title": "AMD refuse d'enterrer l'AM4 et lance deux nouveaux Ryzen 5 !!!",
+    "link": "https://www.cowcotland.com/news/102390/amd-refuse-d-enterrer-l-am4-et-lance-deux-nouveaux-ryzen-5.html",
+    "date": "2026-09-11T08:17:34.000Z",
+    "desc": "Mais quand est-ce que l'AM4 va prendre sa retraite ? Visiblement, pas tout de suite. AMD vient de lancer, dans la plus grande discrétion, deux nouveaux processeurs avec les Ryzen 5 7500 et Ryzen 5 550",
+    "source": "Cowcotland",
+    "color": "#81c995"
+  },
+  {
+    "title": "Ryzen AI Max+ PRO 495 : AMD prépare un nouveau gros CPU mobile avec jusqu'à 192 Go de mémoire",
+    "link": "https://www.cowcotland.com/news/102389/ryzen-ai-max+-pro-495-amd-prepare-un-nouveau-gros-cpu-mobile-avec-jusqu-a-192-go-de-memoire.html",
+    "date": "2026-09-11T08:11:33.000Z",
+    "desc": "AMD semble préparer un nouveau processeur mobile particulièrement intéressant avec le Ryzen AI Max+ PRO 495. Cette nouvelle puce de la famille Gorgon Halo ferait ses premiers pas dans un laptop signé ",
+    "source": "Cowcotland",
+    "color": "#81c995"
+  },
+  {
     "title": "L’overlay NVIDIA gagne quelques métriques CPU",
     "link": "https://www.comptoir-hardware.com/actus/software-pilotes/48822-loverlay-nvidia-gagne-quelques-metriques-cpu.html",
     "date": "2026-09-10T13:38:10.000Z",
