@@ -1,5 +1,45 @@
 [
   {
+    "title": "Thermal Grizzly lance sa pâte à polir pour faire briller vos CPU et retirer les résidus de métal liquide",
+    "link": "https://www.cowcotland.com/news/102661/thermal-grizzly-lance-sa-pate-a-polir-pour-faire-briller-vos-cpu-et-retirer-les-residus-de-metal-liquide.html",
+    "date": "2026-10-02T10:40:56.000Z",
+    "desc": "Après les pâtes thermiques, les pads, le métal liquide et les nombreux accessoires dédiés au refroidissement, Thermal Grizzly nous propose aujourd'hui un produit un peu différent avec le TG Metal Poli",
+    "source": "Cowcotland",
+    "color": "#81c995"
+  },
+  {
+    "title": "Sept Core Nova Lake-S se dévoilent, dont trois BFC qui font leurs intéressants",
+    "link": "https://www.comptoir-hardware.com/actus/processeurs/48852-sept-core-nova-lake-s-se-devoilent-dont-trois-bfc-qui-font-leurs-interessants.html",
+    "date": "2026-10-02T09:57:44.000Z",
+    "desc": "LC Tech Leaks, la source qui avait publié une première image du LGA-1954 puis une capture d’un surprenant Core Ultra 9 4950K dans CPU-Z, vient de récidiver. Cette fois, elle nous dévoile sept référenc",
+    "source": "Comptoir HW",
+    "color": "#fdd663"
+  },
+  {
+    "title": "Intel Nova Lake-S : les premiers Core Ultra 4000 se dévoilent, jusqu'à 28 cores et gros cache bLLC",
+    "link": "https://www.cowcotland.com/news/102651/intel-nova-lake-s-les-premiers-core-ultra-4000-se-devoilent-jusqu-a-28-cores-et-gros-cache-bllc.html",
+    "date": "2026-10-02T05:39:50.000Z",
+    "desc": "On reparle, une fois n'est pas coutume, des futurs processeurs Nova Lake-S d'Intel avec une nouvelle fuite qui nous dévoile pas moins de sept modèles desktop. Au programme, une nouvelle nomenclature e",
+    "source": "Cowcotland",
+    "color": "#81c995"
+  },
+  {
+    "title": "Minisforum case une RX 9060 XT 16 Go et un Ryzen 9 8945HX dans seulement 3,8 litres",
+    "link": "https://www.cowcotland.com/news/102649/minisforum-case-une-rx-9060-xt-16-go-et-un-ryzen-9-8945hx-dans-seulement-3-8-litres.html",
+    "date": "2026-10-02T05:01:08.000Z",
+    "desc": "Minisforum, avec son petit AtomMan G1 Pro, nous propose un Mini PC qui ne manquement pas de gouache et qui a aussi clairement un petit air de PS5. Baptisée G1 Pro-89A6, cette déclinaison associe un tr",
+    "source": "Cowcotland",
+    "color": "#81c995"
+  },
+  {
+    "title": "AMD Gainsborough : je suis venu te dire que le Steam Deck 2 pourrait embarquer du Zen 6 et du RDNA 5",
+    "link": "https://www.cowcotland.com/news/102648/amd-gainsborough-je-suis-venu-te-dire-que-le-steam-deck-2-pourrait-embarquer-du-zen-6-et-du-rdna-5.html",
+    "date": "2026-10-02T04:46:27.000Z",
+    "desc": "Voilà un nom de code qui ne manque pas de nous faire sourire. Un mystérieux processeur AMD Gainsborough vient de faire son apparition dans des données liées aux pilotes Adrenalin 26.9.2, mais aussi da",
+    "source": "Cowcotland",
+    "color": "#81c995"
+  },
+  {
     "title": "Six cœurs Zen 6 et 12 CU RDNA4m, les premiers ingrédients des Ryzen Z3",
     "link": "https://www.comptoir-hardware.com/actus/processeurs/48851-six-curs-zen-6-et-12-cu-rdna4m-les-premiers-ingredients-des-ryzen-z3.html",
     "date": "2026-10-01T16:08:44.000Z",
