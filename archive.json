@@ -1,5 +1,29 @@
 [
   {
+    "title": "L’emprise de la Chine alarme : TSMC cherche à se passer de terres rares dans ses usines",
+    "link": "https://www.clubic.com/actualite-635635-l-emprise-de-la-chine-inquiete-tsmc-cherche-a-se-passer-de-terres-rares-dans-ses-usines.html",
+    "date": "2026-10-23T10:11:00.000Z",
+    "desc": "TSMC veut desserrer l’étau chinois. Le géant des puces explore des équipements sans terres rares, ces métaux sur lesquels Pékin détient un quasi-monopole. Et l’enjeu est vital.",
+    "source": "Clubic Matériel",
+    "color": "#f28b82"
+  },
+  {
+    "title": "Qualcomm Snapdragon X2 : l'Advanced Shader Delivery réduit de 95 % le temps de compilation des shaders",
+    "link": "https://www.cowcotland.com/news/102927/qualcomm-snapdragon-x2-l-advanced-shader-delivery-reduit-de-95-le-temps-de-compilation-des-shaders.html",
+    "date": "2026-10-23T05:44:42.000Z",
+    "desc": "Qualcomm annonce la prise en charge de l'Advanced Shader Delivery (ASD) sur ses futurs PC équipés de processeurs Snapdragon X2. Cette technologie de Microsoft, basée sur DirectX 12, vise à réduire l'a",
+    "source": "Cowcotland",
+    "color": "#81c995"
+  },
+  {
+    "title": "AMD ressuscite un processeur vieux de 4 ans, et c’est Lisa Su qui a tout décidé",
+    "link": "https://www.tomshardware.fr/amd-ressuscite-un-processeur-vieux-de-4-ans-et-cest-lisa-su-qui-a-tout-decide/",
+    "date": "2026-10-23T04:58:00.000Z",
+    "desc": "Alors que les prix de la mémoire flambent, AMD a décidé de redonner vie à son Ryzen 7 5800X3D, un processeur lancé en 2022. Mais contrairement à ce que l'on pourrait croire, cette décision n'a aucun r",
+    "source": "Tom's Hardware",
+    "color": "#8ab4f8"
+  },
+  {
     "title": "Intel Nova Lake-HX : le Core Ultra 9 4995HX évoqué avec 28 c&#156;urs CPU",
     "link": "https://www.cowcotland.com/news/102915/intel-nova-lake-hx-le-core-ultra-9-4995hx-evoque-avec-28-c-urs-cpu.html",
     "date": "2026-10-22T07:12:18.000Z",
