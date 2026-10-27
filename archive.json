@@ -1,5 +1,29 @@
 [
   {
+    "title": "Le prochain processeur Intel fait mieux que le Ryzen 9 9950X3D, mais il y a un piège",
+    "link": "https://www.tomshardware.fr/le-prochain-processeur-intel-fait-mieux-que-le-ryzen-9-9950x3d-mais-il-y-a-un-piege/",
+    "date": "2026-10-27T15:57:00.000Z",
+    "desc": "Intel pourrait bien préparer une nouvelle génération de processeurs capable de rivaliser avec les meilleures références d’AMD. Des résultats PassMark attribués à Nova Lake-S dévoilent des performances",
+    "source": "Tom's Hardware",
+    "color": "#8ab4f8"
+  },
+  {
+    "title": "TSMC A14 : le retour de la miniaturisation de la SRAM après plusieurs années de stagnation",
+    "link": "https://www.comptoir-hardware.com/actus/ram/48893-tsmc-a14-le-retour-de-la-miniaturisation-de-la-sram-apres-plusieurs-annees-de-stagnation.html",
+    "date": "2026-10-27T15:35:31.000Z",
+    "desc": "La miniaturisation des semi-conducteurs ne progresse pas à la même vitesse sur tous les fronts. Si la densité des circuits logiques s'est améliorée au fil des générations, celle de la mémoire SRAM emb",
+    "source": "Comptoir HW",
+    "color": "#fdd663"
+  },
+  {
+    "title": "Intel Nova Lake-S : le Core Ultra 4000 à 28 cœurs dépasse déjà le Core Ultra 9 285K en single-core",
+    "link": "https://www.clubic.com/actualite-636172-intel-nova-lake-s-le-core-ultra-4000-a-28-c-urs-depasse-deja-le-core-ultra-9-285k-en-single-core.html",
+    "date": "2026-10-27T13:58:00.000Z",
+    "desc": "Des résultats encore largement préliminaires laissent à penser que Nova Lake pourrait bien être une très bonne cuvée pour Intel.",
+    "source": "Clubic Matériel",
+    "color": "#f28b82"
+  },
+  {
     "title": "Nova Lake et Raptor Lake Next, les CPU Intel de 2027, se dévoilent dans deux fuites",
     "link": "https://www.comptoir-hardware.com/actus/processeurs/48892-nova-lake-et-raptor-lake-next-les-cpu-intel-de-2027-se-devoilent-dans-deux-fuites.html",
     "date": "2026-10-27T11:27:01.000Z",
