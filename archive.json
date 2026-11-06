@@ -1,5 +1,45 @@
 [
   {
+    "title": "IA : nous faisons évoluer notre protocole de test avec Geekbench AI et MLPerf Client",
+    "link": "https://www.cowcotland.com/news/103122/ia-nous-faisons-evoluer-notre-protocole-de-test-avec-geekbench-ai-et-mlperf-client.html",
+    "date": "2026-11-06T09:30:00.000Z",
+    "desc": "L'intelligence artificielle prend une place de plus en plus importante dans nos PC. Après les processeurs et les cartes graphiques, les constructeurs mettent désormais en avant les NPU, ces unités spé",
+    "source": "Cowcotland",
+    "color": "#81c995"
+  },
+  {
+    "title": "Après AMD Medusa Point, voilà Intel Nova Lake-H : 16 cores et une architecture en plusieurs morceaux !",
+    "link": "https://www.cowcotland.com/news/103111/apres-amd-medusa-point-voila-intel-nova-lake-h-16-cores-et-une-architecture-en-plusieurs-morceaux.html",
+    "date": "2026-11-06T07:30:52.000Z",
+    "desc": "Il y a quelques instants, nous découvrions les premières informations concernant le futur AMD Medusa Point, avec ses 10 cores Zen 6 et Zen 6c, mais aussi ses premiers résultats prometteurs sous Geekbe",
+    "source": "Cowcotland",
+    "color": "#81c995"
+  },
+  {
+    "title": "Un premier Ryzen Zen 6 Medusa Point à 10 cores apparaît sur Geekbench, avec des performances prometteuses !!!",
+    "link": "https://www.cowcotland.com/news/103110/un-premier-ryzen-zen-6-medusa-point-a-10-cores-apparait-sur-geekbench-avec-des-performances-prometteuses.html",
+    "date": "2026-11-06T07:21:33.000Z",
+    "desc": "Alors que nous attendons encore de découvrir ce que nous réserve réellement l'architecture Zen 6, voilà qu'un premier processeur AMD Medusa Point vient de faire son apparition dans la base de données ",
+    "source": "Cowcotland",
+    "color": "#81c995"
+  },
+  {
+    "title": "Encore un prix de folie aux USA : Core Ultra 7 270K Plus, Z890 et 32 Go de DDR5 pour 630 dollars ! Et nous alors ?",
+    "link": "https://www.cowcotland.com/news/103109/encore-un-prix-de-folie-aux-usa-core-ultra-7-270k-plus-z890-et-32-go-de-ddr5-pour-630-dollars-et-nous-alors.html",
+    "date": "2026-11-06T07:08:51.000Z",
+    "desc": "Décidément, les bonnes affaires se multiplient aux États-Unis, et comme toujours, nous autres Européens pouvons regarder les offres avec des yeux remplis de larmes. Après un premier bundle particulièr",
+    "source": "Cowcotland",
+    "color": "#81c995"
+  },
+  {
+    "title": "La course aux puces de 1 nm s’accélère, Taïwan vient de confirmer une étape majeure",
+    "link": "https://www.tomshardware.fr/la-course-aux-puces-de-1-nm-saccelere-taiwan-vient-de-confirmer-une-etape-majeure/",
+    "date": "2026-11-06T06:16:00.000Z",
+    "desc": "TSMC implantera sa production en 1 nanomètre à Tainan, au cœur du parc technologique de Shalun, et les préparatifs sont déjà bien engagés. L’article La course aux puces de 1 nm s’accélère, Taïwan vien",
+    "source": "Tom's Hardware",
+    "color": "#8ab4f8"
+  },
+  {
     "title": "L'ASUS Ascent QN10 et son Snapdragon X2 Elite arrivent en Europe",
     "link": "https://www.cowcotland.com/news/103107/l-asus-ascent-qn10-et-son-snapdragon-x2-elite-arrivent-en-europe.html",
     "date": "2026-11-05T15:21:00.000Z",
