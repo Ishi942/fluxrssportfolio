@@ -1,5 +1,37 @@
 [
   {
+    "title": "Intel entend lancer Razor Lake-S courant 2028 et conserverait le socket LGA-1954",
+    "link": "https://www.clubic.com/actualite-638374-intel-entend-lancer-razor-lake-s-courant-2028-et-conserverait-le-socket-lga-1954.html",
+    "date": "2026-11-09T13:13:00.000Z",
+    "desc": "C'est un peu comme mettre la charrue avant les bœufs alors que Nova Lake n'est même pas présenté officiellement, mais des infos sur la suite des événements, c'est toujours utile.",
+    "source": "Clubic Matériel",
+    "color": "#f28b82"
+  },
+  {
+    "title": "CPU-Z relève un recul inédit de la RAM dans les PC",
+    "link": "https://www.comptoir-hardware.com/actus/ram/48913-cpu-z-releve-un-recul-inedit-de-la-ram-dans-les-pc.html",
+    "date": "2026-11-09T12:56:33.000Z",
+    "desc": "Dans la dernière enquête Steam sur le matériel, les configurations de 16 Go de RAM ont retrouvé la première place, après une brève percée de celles équipées de 32 Go. Du côté de CPU-Z Validator, elles",
+    "source": "Comptoir HW",
+    "color": "#fdd663"
+  },
+  {
+    "title": "L'audace, c'est ça : ce PC portable chinois mise sur un Intel Core i3... lancé il y a 8 ans",
+    "link": "https://www.clubic.com/actualite-638326-l-audace-c-est-ca-ce-pc-portable-chinois-mise-sur-un-intel-core-i3-lance-il-y-a-8-ans.html",
+    "date": "2026-11-09T12:42:00.000Z",
+    "desc": "Propre sur lui, le nouveau BMAX MaxBook X15S Pro est un ordinateur portable chinois comme on en voit émerger des dizaines. Orienté bureautique et équipé de 12 Go de RAM, cet appareil fort commun aurai",
+    "source": "Clubic Matériel",
+    "color": "#f28b82"
+  },
+  {
+    "title": "Elon Musk veut remplacer les câbles sous-marins par 100 000 satellites Starlink",
+    "link": "https://www.tomshardware.fr/elon-musk-veut-remplacer-les-cables-sous-marins-par-100-000-satellites-starlink/",
+    "date": "2026-11-09T06:12:00.000Z",
+    "desc": "Alors que les câbles sous-marins sont au cœur de nouvelles tensions avec l'Iran, Elon Musk avance une solution radicale pour sécuriser Internet. Avec 100 000 satellites Starlink V4 et des lasers surpu",
+    "source": "Tom's Hardware",
+    "color": "#8ab4f8"
+  },
+  {
     "title": "Prix des processeurs : AMD dégaine les grosses baisses, Intel suit le mouvement",
     "link": "https://www.cowcotland.com/news/103132/prix-des-processeurs-amd-degaine-les-grosses-baisses-intel-suit-le-mouvement.html",
     "date": "2026-11-08T14:33:19.000Z",
