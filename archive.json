@@ -1,5 +1,21 @@
 [
   {
+    "title": "Les évolutions architecturales de Zen 6 passées au crible des EPYC 9006",
+    "link": "https://www.comptoir-hardware.com/actus/processeurs/48921-les-evolutions-architecturales-de-zen-6-passees-au-crible-des-epyc-9006.html",
+    "date": "2026-11-12T13:37:29.000Z",
+    "desc": "Plusieurs mois après avoir officialisé sa gamme EPYC Venice, aka EPYC 9006 Series, laquelle inaugure Zen 6, AMD a consenti à dévoiler les dessous de cette microarchitecture. Sa déclinaison actuelle ne",
+    "source": "Comptoir HW",
+    "color": "#fdd663"
+  },
+  {
+    "title": "Une simple mise à jour fait perdre jusqu’à 87 % de performances à ces PC",
+    "link": "https://www.tomshardware.fr/une-simple-mise-a-jour-fait-perdre-jusqua-87-de-performances-a-ces-pc/",
+    "date": "2026-11-12T08:30:00.000Z",
+    "desc": "Installer le dernier pilote graphique de Qualcomm pourrait sérieusement ralentir certains PC sous Snapdragon X2 Elite. Plusieurs utilisateurs rapportent des pertes de performances spectaculaires, au p",
+    "source": "Tom's Hardware",
+    "color": "#8ab4f8"
+  },
+  {
     "title": "AMD Zen 6 : jusqu’à 32 cœurs par CCD et un IPC qui bondit de 27 % par rapport à Zen 5",
     "link": "https://www.clubic.com/actualite-638785-amd-zen-6-jusqu-a-32-c-urs-par-ccd-et-un-ipc-qui-bondit-de-27-par-rapport-a-zen-5.html",
     "date": "2026-11-11T13:27:00.000Z",
