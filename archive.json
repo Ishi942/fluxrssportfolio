@@ -1,5 +1,37 @@
 [
   {
+    "title": "Comment TSMC compte utiliser des agents IA pour concevoir plus vite les puces de demain",
+    "link": "https://www.clubic.com/actualite-641524-tsmc-apprend-aux-agents-ia-a-tracer-les-connexions-des-puces-en-1-4-nm.html",
+    "date": "2026-11-27T15:16:00.000Z",
+    "desc": "Écrire les scripts qui préparent le câblage d’une puce peut prendre des semaines. TSMC vient de montrer comment ses clients pourraient confier ce travail à un agent IA.",
+    "source": "Clubic Matériel",
+    "color": "#f28b82"
+  },
+  {
+    "title": "Un prototype de processeur Intel Razor Lake-AX en fuite confirme la mémoire intégrée",
+    "link": "https://www.clubic.com/actualite-641317-un-prototype-de-processeur-intel-razor-lake-ax-en-fuite-confirme-la-memoire-integree.html",
+    "date": "2026-11-27T09:24:00.000Z",
+    "desc": "Sujet délicat que celui de l'intégration de la mémoire vive aux processeurs. Intel a déjà tenté l'expérience par le passé, mais Razor Lake pourrait marquer un changement plus durable.",
+    "source": "Clubic Matériel",
+    "color": "#f28b82"
+  },
+  {
+    "title": "Mini PC fanless : le Cirrus7 embarque un Intel Core Ultra 9 285T à 24 cœurs",
+    "link": "https://www.clubic.com/actualite-641305-mini-pc-fanless-le-cirrus7-embarque-un-intel-core-ultra-9-285t-a-24-c-urs.html",
+    "date": "2026-11-27T07:16:00.000Z",
+    "desc": "Se passer de tout ventilateur pour limiter les nuisances sonores ? Un rêve difficilement accessible sur un mini-PC, encore plus lorsque l'on parle d'un processeur doté de 24 cœurs.",
+    "source": "Clubic Matériel",
+    "color": "#f28b82"
+  },
+  {
+    "title": "Intel Core Ultra 4000 : une fuite dévoile les caractéristiques de sept nouveaux processeurs",
+    "link": "https://www.tomshardware.fr/intel-core-ultra-4000-une-fuite-devoile-les-caracteristiques-de-sept-nouveaux-processeurs/",
+    "date": "2026-11-27T06:03:00.000Z",
+    "desc": "Intel prépare sa prochaine offensive face à AMD avec une nouvelle génération de processeurs de bureau aux caractéristiques ambitieuses. Sept modèles de la gamme Core Ultra 4000 viennent de fuiter, tan",
+    "source": "Tom's Hardware",
+    "color": "#8ab4f8"
+  },
+  {
     "title": "Un CPU décapsulé au four, s&#039;il vous plaît, sauce Thermal Grizzly",
     "link": "https://www.comptoir-hardware.com/actus/processeurs/48946-un-cpu-decapsule-au-four-sil-vous-plait-sauce-thermal-grizzly.html",
     "date": "2026-11-26T13:15:07.000Z",
